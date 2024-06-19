@@ -200,8 +200,8 @@ a.nav-link{
     display: flex;
     flex-direction: column;
     margin: 20px;
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 250px;
     border-radius: 12px;
     background: var(--main-decor-color);
 }
